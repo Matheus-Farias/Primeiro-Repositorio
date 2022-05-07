@@ -1,0 +1,22 @@
+HTML
+
+*Linguagem de Marcação de HiperTexto
+*A linguagem mais básica de web.
+*Utilizada para constução e estruturação da páginas da web
+*Marcação
+<head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <li>.
+
+CSS
+
+* Cascading Sytle Sheets
+* linguagem para estilizar uma página escrita em HTML
+* É uma linguagem padrão para todos os navegadores.
+* Padronização criada pela W3C
+* Representado por classes, atributos e valores.
+
+JavaScript
+
+* Linguagem  de scrpt
+* Interpretada pelos navegadores
+* Responsável por possibilitar ações e acontecimentos nas páginas WEB.
+* Também utilizada hoje em aplicações backend
